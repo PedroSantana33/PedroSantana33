@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Pedro Santana
 
-![Marcelones GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSantana33&show_icons=true&theme=github_dark&count_private=true)
+![Marcelones GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSantana33&show_icons=true&theme=gruvbox&count_private=true)
 
 ## Tecnologias que eu uso
 
